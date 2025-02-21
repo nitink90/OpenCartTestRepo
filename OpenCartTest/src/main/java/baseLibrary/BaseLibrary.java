@@ -26,7 +26,7 @@ public class BaseLibrary implements PropertyUtility, ApplicationUtility, WaitUti
 		driver.get(getReadData(key));
 		driver.manage().window().maximize();
 	}
-	//ahkfkghytjulkfd
+	//this is a demo repository
 
 	@Override
 	public String getReadData(String key) {
